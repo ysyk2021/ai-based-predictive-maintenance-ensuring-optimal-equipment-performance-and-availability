@@ -1,5 +1,3 @@
-Fault Detection and Diagnosis
-=================================================================================================
 
 AI-based predictive maintenance involves the use of artificial intelligence algorithms to analyze data from equipment sensors and predict when maintenance issues are likely to occur. In this chapter, we will explore the techniques and strategies used in fault detection and diagnosis for AI-based predictive maintenance.
 

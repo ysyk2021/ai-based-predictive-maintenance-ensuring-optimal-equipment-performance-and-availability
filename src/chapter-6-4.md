@@ -1,5 +1,3 @@
-Human-Machine Interfaces and Decision Support Systems
-=============================================================================================================================
 
 Integrating AI-based predictive maintenance into industrial systems requires careful consideration of human-machine interfaces and decision support systems. The successful integration of AI-based predictive maintenance can improve the reliability and availability of equipment, reduce downtime, and increase productivity. The following section outlines key considerations for integrating AI-based predictive maintenance into industrial systems.
 

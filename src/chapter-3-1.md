@@ -1,5 +1,3 @@
-Types of Artificial Intelligence and Their Applications in Predictive Maintenance
-====================================================================================================================================
 
 Artificial Intelligence (AI) is a rapidly growing field that can be applied to various industries, including predictive maintenance. In this chapter, we will discuss the different types of AI and their applications in predictive maintenance.
 

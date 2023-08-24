@@ -1,5 +1,3 @@
-Overview of AI-Based Predictive Maintenance Techniques and Strategies
-================================================================================================================================
 
 AI-based predictive maintenance uses machine learning algorithms and data analysis to anticipate equipment failures before they occur and schedule maintenance proactively. The following are some of the techniques and strategies used in AI-based predictive maintenance:
 

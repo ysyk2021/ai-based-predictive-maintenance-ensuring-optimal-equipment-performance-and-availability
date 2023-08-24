@@ -1,5 +1,3 @@
-IoT and Edge Computing
-=======================================================================================================
 
 The integration of AI-based predictive maintenance into industrial systems has become increasingly important for businesses looking to optimize equipment performance and availability. In this chapter, we will explore how the Internet of Things (IoT) and edge computing can be used to integrate AI-based predictive maintenance into industrial systems.
 

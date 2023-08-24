@@ -1,5 +1,3 @@
-Social Media and User Behavior Tracking
-=========================================================================================================
 
 Data collection and analysis are critical components of AI-based predictive maintenance. In addition to collecting data from equipment sensors, businesses can also collect and analyze data from other sources, such as social media and user behavior tracking. In this chapter, we will explore how social media and user behavior tracking can be used for data collection and analysis in predictive maintenance.
 

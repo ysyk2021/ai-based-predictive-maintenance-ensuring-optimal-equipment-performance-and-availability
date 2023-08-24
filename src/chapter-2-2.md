@@ -1,5 +1,3 @@
-Traditional Approaches to Maintenance
-===========================================================================
 
 Traditional approaches to maintenance include corrective and preventive maintenance. While these approaches have been used for many years, they are not always the most efficient or cost-effective methods for ensuring optimal equipment performance and availability.
 

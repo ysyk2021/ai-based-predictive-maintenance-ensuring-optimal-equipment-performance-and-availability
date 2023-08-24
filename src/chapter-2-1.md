@@ -1,5 +1,3 @@
-Overview of Predictive Maintenance
-========================================================================
 
 Predictive maintenance is a proactive maintenance strategy that uses data analysis techniques to predict equipment failures and schedule maintenance before a failure occurs. By forecasting when equipment may fail, predictive maintenance can help organizations optimize equipment performance, increase productivity, minimize downtime, and reduce maintenance costs.
 

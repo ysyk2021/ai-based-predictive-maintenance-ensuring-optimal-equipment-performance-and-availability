@@ -1,5 +1,3 @@
-Artificial Intelligence in Predictive Maintenance
-=================================================
 
 AI-based solutions are transforming the field of predictive maintenance, allowing organizations to optimize equipment performance and availability. In this chapter, we will discuss the different types of AI and their applications in predictive maintenance, the advantages and limitations of AI in predictive maintenance, as well as case studies showcasing the benefits of AI-powered solutions.
 

@@ -1,5 +1,3 @@
-Sensor and Diagnostic Data
-===================================================================================
 
 Data collection and analysis are critical components of AI-based predictive maintenance. To accurately predict equipment failures and recommend maintenance actions, organizations must collect and analyze data from a variety of sources, including sensors and diagnostic systems. The following section outlines key considerations for data collection and analysis for predictive maintenance.
 

@@ -1,5 +1,3 @@
-Cybersecurity and Privacy
-==========================================================================================================
 
 The integration of AI-based predictive maintenance into industrial systems involves collecting and analyzing sensitive data from equipment sensors. As a result, cybersecurity and privacy are critical considerations for businesses looking to implement this approach. In this chapter, we will explore the importance of cybersecurity and privacy in the integration of AI-based predictive maintenance into industrial systems.
 

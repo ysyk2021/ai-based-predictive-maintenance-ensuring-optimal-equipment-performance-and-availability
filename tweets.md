@@ -9,4 +9,3 @@
 9. Want to improve equipment reliability and reduce unplanned downtime? Discover how #AI-based predictive maintenance can help you achieve these goals and more with this valuable read.
 10. Whether you're a small business or a large enterprise, if you rely on equipment for your operations, you need to read this book on #AI-based predictive maintenance for maximum performance and availability.
 
-

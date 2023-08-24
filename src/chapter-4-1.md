@@ -1,5 +1,3 @@
-Overview of Data Collection and Analysis for Predictive Maintenance
-============================================================================================================================
 
 Data collection and analysis are essential components of AI-based predictive maintenance. Collecting data from equipment and analyzing that data using machine learning algorithms enables organizations to accurately predict equipment failures and recommend appropriate maintenance actions. The following section provides an overview of the key considerations for data collection and analysis for AI-based predictive maintenance.
 

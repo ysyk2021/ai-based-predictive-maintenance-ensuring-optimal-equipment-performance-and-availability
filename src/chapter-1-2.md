@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Its Applications in Maintenance
-=====================================================================================
 
 Artificial intelligence (AI) is a rapidly growing field that has the potential to transform maintenance operations across a wide range of industries. AI-powered systems can analyze large volumes of data and make predictions based on patterns and trends, helping organizations optimize equipment performance, reduce downtime, and maximize productivity.
 

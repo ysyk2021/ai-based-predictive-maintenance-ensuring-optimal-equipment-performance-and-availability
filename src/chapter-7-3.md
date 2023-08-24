@@ -1,5 +1,3 @@
-Future Directions and Challenges
-========================================================
 
 As with any emerging technology, AI-based predictive maintenance raises ethical concerns that need to be addressed before widespread adoption. The following are some of the ethical considerations around AI-based predictive maintenance:
 

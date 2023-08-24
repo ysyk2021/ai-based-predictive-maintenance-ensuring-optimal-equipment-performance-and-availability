@@ -1,5 +1,3 @@
-Prognostics and Health Management
-=====================================================================================================
 
 Prognostics and health management is a predictive maintenance strategy that involves monitoring equipment performance and predicting when maintenance issues are likely to occur based on changes in performance. In this chapter, we will explore the techniques and strategies used in prognostics and health management for AI-based predictive maintenance.
 

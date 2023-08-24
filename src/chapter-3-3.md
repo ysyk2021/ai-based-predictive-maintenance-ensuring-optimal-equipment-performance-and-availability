@@ -1,5 +1,3 @@
-Case Studies on the Use of AI in Predictive Maintenance
-==========================================================================================================
 
 Artificial Intelligence (AI) has been widely adopted in predictive maintenance due to its ability to process and analyze vast amounts of data from multiple sources. In this chapter, we will discuss case studies on the use of AI in predictive maintenance, showcasing the benefits and impact of AI-powered solutions.
 
