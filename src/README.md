@@ -8,3 +8,7 @@ This book, "AI-Based Predictive Maintenance: Ensuring Optimal Equipment Performa
 By examining these topics, this book provides businesses with the knowledge and tools necessary to implement effective AI-based predictive maintenance programs. Whether you are a maintenance professional seeking to optimize your equipment performance or a business leader looking to gain a competitive edge, this book is an essential resource for anyone interested in the power of AI-based predictive maintenance.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
